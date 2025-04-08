@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+.custom-font {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: white !important;
+    transition: color 0.3s ease-in-out;
+}
+
+.custom-font:hover {
+    color: #ffcc00 !important; /* Highlight effect on hover */
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+}
